@@ -36,6 +36,14 @@ def commix():
   os.system('git clone https://github.com/commixproject/commix')
   os.system('mv commix ~')
   print 'Selesai :)'
+  
+def sqlmap():
+  print '\nSedang Menginstall SQLmap'
+  os.system('apt update && apt upgrade')
+  os.system('apt install python2 git')
+  os.system('git clone https://github.com/sqlmapproject/sqlmap')
+  os.system('mv commix ~')
+  print 'Selesai :)'
 
 def brutal():
   print '\nSedang Menginstall Brutal'
