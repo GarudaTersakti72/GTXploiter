@@ -1,5 +1,5 @@
 #GTOOLS CORE
-#RECODE? YOU DEAD :)
+#RECODE? YOU DEAD >:(
 # -*- coding utf-8 -*-
 import os
 import sys
@@ -31,7 +31,7 @@ def metasploit():
 
 def commix():
   print '\nSedang Menginstall Commix'
-  os.system('apt uptade && apt upgrade')
+  os.system('apt update && apt upgrade')
   os.system('apt install python2 git')
   os.system('git clone https://github.com/commixproject/commix')
   os.system('mv commix ~')
@@ -39,7 +39,7 @@ def commix():
 
 def brutal():
   print '\nSedang Menginstall Brutal'
-  os.system('apt uptade && apt upgrade')
+  os.system('apt update && apt upgrade')
   os.system('apt install python2 git')
   os.system('git clone https://github.com/Screetsec/Brutal')
   os.system('mv Brutal ~')
@@ -47,7 +47,7 @@ def brutal():
 
 def a_rat():
   print '\nSedang Menginstall A RAT'
-  os.system('apt uptade && apt upgrade')
+  os.system('apt update && apt upgrade')
   os.system('apt install python2 git')
   os.system('git clone https://github.com/Xi4u7/A-Rat')
   os.system('mv A-Rat ~')
@@ -55,7 +55,7 @@ def a_rat():
 
 def wpsploit():
   print '\nSedang Menginstall WPSploit'
-  os.system('apt uptade && apt upgrade')
+  os.system('apt update && apt upgrade')
   os.system('apt install git')
   os.system('git clone https://github.com/m4ll0k/WPSploit')
   os.system('mv WPSploit ~')
@@ -63,7 +63,7 @@ def wpsploit():
 
 def websploit():
   print '\nSedang Menginstall websploit'
-  os.system('apt uptade && apt upgrade')
+  os.system('apt update && apt upgrade')
   os.system('apt install git')
   os.system('git clone https://github.com/websploit/websploit')
   os.system('mv websploit ~')
@@ -71,7 +71,7 @@ def websploit():
 
 def routersploit():
   print '\nSedang Menginstall routersploit'
-  os.system('apt uptade && apt upgrade')
+  os.system('apt update && apt upgrade')
   os.system('apt install git')
   os.system('git clone https://github.com/threat9/routersploit')
   os.system('mv routersploit ~')
@@ -79,7 +79,7 @@ def routersploit():
 
 def blackbox():
   print '\nSedang Menginstall '
-  os.system('apt uptade && apt upgrade')
+  os.system('apt update && apt upgrade')
   os.system('apt install git')
   os.system('git clone https://github.com/jothatron/blackbox')
   os.system('mv blackbox ~')
@@ -87,7 +87,7 @@ def blackbox():
 
 def xattacker():
   print '\nSedang Menginstall XAttacker'
-  os.system('apt uptade && apt upgrade')
+  os.system('apt update && apt upgrade')
   os.system('apt install git')
   os.system('git clone https://github.com/Moham3dRiahi/XAttacker')
   os.system('mv XAttacker ~')
@@ -95,7 +95,7 @@ def xattacker():
 
 def tfr():
   print '\nSedang Menginstall TheFatRat'
-  os.system('apt uptade && apt upgrade')
+  os.system('apt update && apt upgrade')
   os.system('apt install python2 git')
   os.system('git clone https://github.com/Screetsec/TheFatRat')
   os.system('mv TheFatRat ~')
@@ -103,7 +103,7 @@ def tfr():
 
 def drupalgeddon():
   print '\nSedang Menginstall Drupalgeddon'
-  os.system('apt uptade && apt upgrade')
+  os.system('apt update && apt upgrade')
   os.system('apt install ruby git')
   os.system('git clone https://github.com/dreadlocked/Drupalgeddon2')
   os.system('mv Drupalgeddon2 ~')
@@ -111,7 +111,7 @@ def drupalgeddon():
 
 def drxp():
   print '\nSedang Menginstall DarkSploit'
-  os.system('apt uptade && apt upgrade')
+  os.system('apt update && apt upgrade')
   os.system('apt install git')
   os.system('git clone https://github.com/LOoLzeC/DarkSploit')
   os.system('mv DarkSploit ~')
@@ -119,7 +119,7 @@ def drxp():
 
 def soceng():
   print '\nSedangg Menginstall Social-Engineering'
-  os.system('apt uptade && apt upgrade')
+  os.system('apt update && apt upgrade')
   os.system('apt install git')
   os.system('git clone https://github.com/trustedsec/social-engineering-toolkit')
   os.system('mv social-engineering-toolkit ~')
