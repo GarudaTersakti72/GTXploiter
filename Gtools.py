@@ -51,7 +51,7 @@ def main():
   elif exploitool == "11":
      tfr()
   elif exploitool == "12":
-     drupaleddon()
+     drupalgeddon()
   elif exploitool == "13":
      drxp()     
   elif exploitool == "14":
