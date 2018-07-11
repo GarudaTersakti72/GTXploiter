@@ -1,4 +1,5 @@
 #GTOOLS CORE
+#RECODE? YOU DEAD :)
 # -*- coding utf-8 -*-
 import os
 import sys
@@ -21,7 +22,7 @@ def banner():
 
 def metasploit():
   print '\nSedang Menginstall Metasploit'
-  os.system("apt uptade && apt upgrade")
+  os.system("apt update && apt upgrade")
   os.system("apt install git")
   os.system("git clone https://github.com/Junior60/Metasploit")
   os.system("mv metasploit.sh ~;cd ~;sh metasploit.sh")
